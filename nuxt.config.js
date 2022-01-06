@@ -27,7 +27,7 @@ export default {
   plugins: ["@/plugins/filters"],
 
   router: {
-    middlewave: ["auth"],
+    middleware: ["auth"],
   },
 
   // Auto import components: https://go.nuxtjs.dev/config-components

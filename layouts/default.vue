@@ -63,7 +63,7 @@ export default {
         {
           icon: "mdi-logout-variant",
           title: "Sign out",
-          to: "/auth/signout",
+          to: "/signout",
         },
       ],
       miniVariant: false,
