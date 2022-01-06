@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Knewave&display=swap");
+
+.fancy-title {
+  font-family: "Knewave", cursive;
+  font-size: 48px;
+}
+
+.signin-layout {
+  background-color: $primary-color;
+}
+
+.mello-topbar {
+  font-family: "Knewave", cursive;
+  color: $primary-color !important;
+}
+
+.mello-board-title {
+  margin: 20px 20px 0 0;
+  object-fit: cover;
+  background-size: cover;
+  background-position: center center;
+}
